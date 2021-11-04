@@ -1,0 +1,10 @@
+Variable,Type,Description
+model, Character, the model of the car
+year, Numeric, registration year
+price, Numeric, listed car price in GBP
+transmission, Character, type of gearbox
+mileage, Numeric, distance used
+fuelType, Character, engine fuel
+tax, Numeric, road tax
+mpg, Numeric, miles per gallon
+engineSize, Numeric, size in litres
